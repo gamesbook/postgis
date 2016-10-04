@@ -1,4 +1,4 @@
-FROM postgres:9.4
+FROM postgres:9.5
 # Adapted from https://hub.docker.com/r/mdillon/postgis/
 
 MAINTAINER Cheewai Lai <clai@csir.co.za>
